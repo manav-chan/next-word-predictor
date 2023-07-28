@@ -15,4 +15,6 @@ Developed and trained a Recurrent Neural Network model on the dataset "Room with
 3. The app should start running locally at the specified URL.
 4. Test and have fun!
 
- 
+## How it looks like?
+
+![Screenshot (333)](https://github.com/manav-chan/next-word-predictor/assets/71835184/123804ae-a85b-4353-9e8d-7453e5635e3c)
